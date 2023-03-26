@@ -1,0 +1,712 @@
+{
+  "questions": [
+    {
+      "question": "How many preschoolers could you fight until you were overwhelmed?",
+      "category": "funny"
+    },
+    {
+      "question": "Who's the most scandalous person you've had sex with?",
+      "category": "adult"
+    },
+    {
+      "question": "What's the most embarrassing thing you've ever done while drunk?",
+      "category": "drinking"
+    },
+    {
+      "question": "What's the #1 thing you would never want your parents to find out about you?",
+      "category": "general"
+    },
+    {
+      "question": "What's invisible but you wish people could see?",
+      "category": "general"
+    },
+    {
+      "question": "Is a hotdog a sandwich? Why or why not?",
+      "category": "general"
+    },
+    {
+      "question": "What movie can only be watched while drunk?",
+      "category": "drinking"
+    },
+    {
+      "question": "What is the most ridiculous fact you know?",
+      "category": "funny"
+    },
+    {
+      "question": "What is your most embarrassing memory?",
+      "category": "funny"
+    },
+    {
+      "question": "If you could marry one celebrity, who would it be?",
+      "category": "famous people"
+    },
+    {
+      "question": "Which US President would have been most likely to succeed at being a drag queen after leaving office, and why?",
+      "category": "famous people"
+    },
+    {
+      "question": "Regardless of how drunk you are, what song will always get you up and dancing?",
+      "category": "drinking"
+    },
+    {
+      "question": "Where would you go if you could spend a night out any place in the world, and why?",
+      "category": "general"
+    },
+    {
+      "question": "What is a telltale sign specific to you that says you've drank too much?",
+      "category": "drinking"
+    },
+    {
+      "question": "What is the longest you've gone without showering?",
+      "category": "general"
+    },
+    {
+      "question": "What is your most outrageous sexual fantasy?",
+      "category": "adult"
+    },
+    {
+      "question": "What secret conspiracy would you like to start?",
+      "category": "adult"
+    },
+    {
+      "question": "If animals could talk, which one do you think would be the funniest?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could only eat one thing for the rest of your life, but it could be any food, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could trade lives with any fictional character, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could have any superpower, but it had to be completely useless, what would it be?",
+      "category": "superpowers"
+    },
+    {
+      "question": "If you were a vegetable, which one would you be and why?",
+      "category": "vegetables"
+    },
+    {
+      "question": "What's the funniest joke you know by heart?",
+      "category": "jokes"
+    },
+    {
+      "question": "If you could have any celebrity be your personal assistant for a day, who would it be?",
+      "category": "celebrities"
+    },
+    {
+      "question": "If you could only listen to one song for the rest of your life, but it had to be a parody, what would it be?",
+      "category": "music"
+    },
+    {
+      "question": "If you had to choose between being a giant hamster or a tiny elephant, which would you choose?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could have any animal as a pet, but it had to be one that's not typically kept as a pet, what would it be?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could switch lives with any cartoon character for a day, who would it be?",
+      "category": "cartoons"
+    },
+    {
+      "question": "If you were a character in a horror movie, what kind of character would you be and how would you die?",
+      "category": "horror"
+    },
+    {
+      "question": "If you could have any animal as a sidekick, which animal would it be?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could only watch one TV show for the rest of your life, but it had to be a reality TV show, which one would you choose?",
+      "category": "TV shows"
+    },
+    {
+      "question": "If you could switch lives with anyone for a day, who would it be and why?",
+      "category": "life swaps"
+    },
+    {
+      "question": "If you could have any job in the world, but it had to be a job you're completely unqualified for, what would it be?",
+      "category": "jobs"
+    },
+    {
+      "question": "If you could live in any fictional world, which one would it be?",
+      "category": "fictional worlds"
+    },
+    {
+      "question": "If you had to pick a new first name for yourself, what would it be?",
+      "category": "names"
+    },
+    {
+      "question": "If you could have any fictional creature as a pet, what would it be?",
+      "category": "pets"
+    },
+    {
+      "question": "If you could only eat one color of food for the rest of your life, which color would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could have any celebrity play you in a movie about your life, who would it be?",
+      "category": "movies"
+    },
+    {
+      "question": "If you could be any character from a book or movie, who would you be?",
+      "category": "characters"
+    },
+    {
+      "question": "If you could have any superpower, but it could only be used to annoy people, what would it be?",
+      "category": "superpowers"
+    },
+    {
+      "question": "If you could only communicate in emoji for a day, how do you think you would fare?",
+      "category": "communication"
+    },
+    {
+      "question": "If you could only wear one color for the rest of your life, what color would it be?",
+      "category": "fashion"
+    },
+    {
+      "question": "If you could be any age for the rest of your life, what age would you choose?",
+      "category": "ages"
+    },
+    {
+      "question": "If you could only eat one type of cuisine for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could have any celebrity as your best friend, who would it be?",
+      "category": "celebrities"
+    },
+    {
+      "question": "If you could only watch one movie for the rest of your life, but it had to be a bad movie, what would it be?",
+      "category": "movies"
+    },
+    {
+      "question": "If you could only have one book for the rest of your life, what would it be?",
+      "category": "books"
+    },
+    {
+      "question": "If you could only have one social media app for the rest of your life, what would it be?",
+      "category": "social media"
+    },
+    {
+      "question": "If you could only listen to music from one decade for the rest of your life, which decade would it be?",
+      "category": "music"
+    },
+    {
+      "question": "If you could have any historical figure as a friend, who would it be?",
+      "category": "history"
+    },
+    {
+      "question": "If you could only eat one type of candy for the rest of your life, what would it be?",
+      "category": "candy"
+    },
+    {
+      "question": "If you could live in any time period, which one would it be?",
+      "category": "history"
+    },
+    {
+      "question": "If you could have any animal as a mount, which one would it be?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could be any fictional character's sidekick, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of fruit for the rest of your life, what would it be?",
+      "category": "fruit"
+    },
+    {
+      "question": "If you could only wear one type of shoe for the rest of your life, what would it be?",
+      "category": "fashion"
+    },
+    {
+      "question": "If you could have any comedian perform at your birthday party, who would it be?",
+      "category": "comedy"
+    },
+    {
+      "question": "If you could switch lives with any historical figure for a day, who would it be?",
+      "category": "history"
+    },
+    {
+      "question": "If you could only eat one type of fast food for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could only watch one sport for the rest of your life, what would it be?",
+      "category": "sports"
+    },
+    {
+      "question": "If you could have any fictional technology become a reality, which one would it be?",
+      "category": "technology"
+    },
+    {
+      "question": "If you could switch lives with any member of your family for a day, who would it be?",
+      "category": "family"
+    },
+    {
+      "question": "If you could only eat one type of dessert for the rest of your life, what would it be?",
+      "category": "desserts"
+    },
+    {
+      "question": "If you could have any celebrity as your roommate, who would it be?",
+      "category": "celebrities"
+    },
+    {
+      "question": "If you could switch lives with any person you know for a day, who would it be?",
+      "category": "life swaps"
+    },
+    {
+      "question": "If you could have any animal's abilities, which animal would it be?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could only play one video game for the rest of your life, what would it be?",
+      "category": "video games"
+    },
+    {
+      "question": "If you could have any historical figure as a mentor, who would it be?",
+      "category": "history"
+    },
+    {
+      "question": "If you could only eat one type of bread for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could be any character from a TV show, who would you be?",
+      "category": "TV shows"
+    },
+    {
+      "question": "If you could have any animal as a hybrid pet, what two animals would you combine?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could have any celebrity host your podcast, who would it be?",
+      "category": "podcasts"
+    },
+    {
+      "question": "If you could switch lives with any athlete for a day, who would it be?",
+      "category": "sports"
+    },
+    {
+      "question": "If you could only eat one type of sandwich for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could be any character from a video game, who would you be?",
+      "category": "video games"
+    },
+    {
+      "question": "If you could switch lives with anyone in the world for a day, who would it be?",
+      "category": "life swaps"
+    },
+    {
+      "question": "If you could have any comedian be your personal stylist fora week, who would it be?",
+      "category": "comedy"
+    },
+    {
+      "question": "If you could only listen to one genre of music for the rest of your life, what would it be?",
+      "category": "music"
+    },
+    {
+      "question": "If you could have any fictional character's wardrobe, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of pizza topping for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could be any character from a book, who would you be?",
+      "category": "books"
+    },
+    {
+      "question": "If you could have any celebrity play you in a movie about your life, who would it be?",
+      "category": "movies"
+    },
+    {
+      "question": "If you could switch lives with any musician for a day, who would it be?",
+      "category": "music"
+    },
+    {
+      "question": "If you could only drink one type of beverage for the rest of your life, what would it be?",
+      "category": "drinks"
+    },
+    {
+      "question": "If you could have any fictional character's job, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could switch lives with any character from a TV show for a day, who would it be?",
+      "category": "TV shows"
+    },
+    {
+      "question": "If you could only eat one type of cuisine for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could have any superpower, what would it be?",
+      "category": "superpowers"
+    },
+    {
+      "question": "If you could only play one board game for the rest of your life, what would it be?",
+      "category": "board games"
+    },
+    {
+      "question": "If you could switch lives with any character from a movie for a day, who would it be?",
+      "category": "movies"
+    },
+    {
+      "question": "If you could have any fictional character's car, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only watch one TV show for the rest of your life, what would it be?",
+      "category": "TV shows"
+    },
+    {
+      "question": "If you could have any fictional character's house, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of cuisine for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any fictional character for a day, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only listen to one band for the rest of your life, who would it be?",
+      "category": "music"
+    },
+    {
+      "question": "If you could have any historical figure as your wingman, who would it be?",
+      "category": "history"
+    },
+    {
+      "question": "If you could switch lives with any character from a book for a day, who would it be?",
+      "category": "books"
+    },
+    {
+      "question": "If you could have any fictional character's powers, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of snack for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could have any celebrity as your personal assistant, who would it be?",
+      "category": "celebrities"
+    },
+    {
+      "question": "If you could switch lives with any character from a video game for a day, who would it be?",
+      "category": "video games"
+    },
+    {
+      "question": "If you could only watch one movie for the rest of your life, what would it be?",
+      "category": "movies"
+    },
+    {
+      "question": "If you could have any fictional character's pet, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only read one book for the rest of your life, what would it be?",
+      "category": "books"
+    },
+    {
+      "question": "If you could have any fictional character's weapon, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could switch lives with any character from a musical for a day, who would it be?",
+      "category": "musicals"
+    },
+    {
+      "question": "If you could have any animal as a pet, what would it be?",
+      "category": "animals"
+    },
+    {
+      "question": "If you could only wear one color for the rest of your life, what would it be?",
+      "category": "fashion"
+    },
+    {
+      "question": "If you could switch lives with any character from a cartoon for a day, who would it be?",
+      "category": "cartoons"
+    },
+    {
+      "question": "If you could have any fictional character's sidekick, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one dessert for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a play for a day, who would it be?",
+      "category": "plays"
+    },
+    {
+      "question": "If you could have any fictional character's technology, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only travel to one country for the rest of your life, what would it be?",
+      "category": "travel"
+    },
+    {
+      "question": "If you could switch lives with any character from a comic book for a day, who would it be?",
+      "category": "comics"
+    },
+    {
+      "question": "If you could have any fictional character's job, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only play one video game for the rest of your life, what would it be?",
+      "category": "video games"
+    },
+    {
+      "question": "If you could switch lives with any character from a TV commercial for a day, who would it be?",
+      "category": "TV commercials"
+    },
+    {
+      "question": "If you could have any fictional character's instrument, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only watch one sports team for the rest of your life, what would it be?",
+      "category": "sports"
+    },
+    {
+      "question": "If you could switch lives with any character from a TV drama for a day, who would it be?",
+      "category": "TV dramas"
+    },
+    {
+      "question": "If you could have any fictional character's magic, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of fruit for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a reality TV show for a day, who would it be?",
+      "category": "reality TV"
+    },
+    {
+      "question": "If you could have any fictional character's hairstyle, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only listen to one podcast for the rest of your life, what would it be?",
+      "category": "podcasts"
+    },
+    {
+      "question": "If you could switchlives with any character from a sci-fi movie for a day, who would it be?",
+      "category": "sci-fi"
+    },
+    {
+      "question": "If you could have any fictional character's car, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only wear one type of shoe for the rest of your life, what would it be?",
+      "category": "fashion"
+    },
+    {
+      "question": "If you could switch lives with any character from a horror movie for a day, who would it be?",
+      "category": "horror"
+    },
+    {
+      "question": "If you could have any fictional character's superpower, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of cuisine for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a romantic comedy for a day, who would it be?",
+      "category": "romantic comedies"
+    },
+    {
+      "question": "If you could have any fictional character's voice, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only use one app for the rest of your life, what would it be?",
+      "category": "technology"
+    },
+    {
+      "question": "If you could switch lives with any character from a thriller for a day, who would it be?",
+      "category": "thrillers"
+    },
+    {
+      "question": "If you could have any fictional character's sense of humor, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only drink one type of beverage for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a fantasy movie for a day, who would it be?",
+      "category": "fantasy"
+    },
+    {
+      "question": "If you could have any fictional character's clothing style, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only play one musical instrument for the rest of your life, what would it be?",
+      "category": "music"
+    },
+    {
+      "question": "If you could switch lives with any character from a Western movie for a day, who would it be?",
+      "category": "Westerns"
+    },
+    {
+      "question": "If you could have any fictional character's accent, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of fast food for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a musical theater production for a day, who would it be?",
+      "category": "musicals"
+    },
+    {
+      "question": "If you could have any fictional character's athletic ability, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only watch one TV show for the rest of your life, what would it be?",
+      "category": "TV shows"
+    },
+    {
+      "question": "If you could switch lives with any character from a science documentary for a day, who would it be?",
+      "category": "documentaries"
+    },
+    {
+      "question": "If you could have any fictional character's fashion sense, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only drink one type of alcoholic beverage for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a crime drama for a day, who would it be?",
+      "category": "crime dramas"
+    },
+    {
+      "question": "If you could have any fictional character's intelligence, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only use one social media platform for the rest of your life, what would it be?",
+      "category": "technology"
+    },
+    {
+      "question": "If you could switch lives with any character from a war movie for a day, who would it be?",
+      "category": "war movies"
+    },
+    {
+      "question": "If you could have any fictional character's pet, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of fruit for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a historical drama for a day, who would it be?",
+      "category": "historical dramas"
+    },
+    {
+      "question": "If you could have any fictional character's knowledge, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only watch one movie for the rest of your life, what would it be?",
+      "category": "movies"
+    },
+    {
+      "question": "If you could switch lives with any character from a travel show for a day, who would it be?",
+      "category": "travel shows"
+    },
+    {
+      "question": "If you could have any fictional character's ability to dance, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of vegetable for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a sports movie for a day, who would it be?",
+      "category": "sports movies"
+    },
+    {
+      "question": "If you could have any fictional character's singing voice, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only use one mode of transportation for the rest of your life, what would it be?",
+      "category": "transportation"
+    },
+    {
+      "question": "If you could switch lives with any character from a cooking show for a day, who would it be?",
+      "category": "cooking shows"
+    },
+    {
+      "question": "If you could have any fictional character's cooking skills, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only read one book for the rest of your life, what would it be?",
+      "category": "books"
+    },
+    {
+      "question": "If you could switch lives with any character from a reality show for a day, who would it be?",
+      "category": "reality shows"
+    },
+    {
+      "question": "If you could have any fictional character's sense of smell, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only listen to one genre of music for the rest of your life, what would it be?",
+      "category": "music"
+    },
+    {
+      "question": "If you could switch lives with any character from a travel documentary for a day, who would it be?",
+      "category": "travel documentaries"
+    },
+    {
+      "question": "If you could have any fictional character's art skills, who would it be?",
+      "category": "fictional characters"
+    },
+    {
+      "question": "If you could only eat one type of dessert for the rest of your life, what would it be?",
+      "category": "food"
+    },
+    {
+      "question": "If you could switch lives with any character from a fashion show for a day, who would it be?",
+      "category": "fashion shows"
+    },
+    {
+      "question": "How many puns can you make that involve the work 'egg'?",
+      "category": "fashion shows"
+    }
+  ]
+}
